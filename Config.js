@@ -17,24 +17,24 @@ global.emoji01 = ['🐼'] // 👈 Enter your Emoji
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
 *ＮＯＩＺ Ξ*
-*I am 16 years old developer...*
+*I am 19 years old developer...*
 *From India 🇮🇳*
 *I am a Learning.*
 *Not more..*
 *Also I am Student*
 *Follow My Facebook - https://www.facebook.com/profile.php?id=100015805215445*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+919015286428','16472492374'] //👈  Enter Your number
-global.premium =  ['+919015286428','16472492374'] //👈  Enter Your number
-global.ownernomer = '+919015286428' //👈  Enter Your number
+global.owner =  ['+919015286428','+918287855075'] //👈  Enter Your number
+global.premium =  ['+919015286428','+918287855075'] //👈  Enter Your number
+global.ownernomer = '+918287855075' //👈  Enter Your number
 global.ownername = '꧁⁣༒𓆩𝄞D⃟『E』E༙PཽA̸͟͞ꀗ𒀱ꪳ𓆪༒꧂' //👈 Enter Your name
 global.botname = 'G༙A༙P༙P༙U༙ ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 Gཽaཽpཽpཽuཽ 𝖡𝗈𝗍' //👈 Enter Your Name
-global.ig = 'https://www.instagram.com/invites/contact/?i=k7q05kjm1im0&utm_content=icvmhg8' // 👈 You Can change this your choice
+global.ig = 'https://www.instagram.com/_g.a.p.p.u_' // 👈 You Can change this your choice
 global.region = 'India, Bihar, Delhi' // 👈 You Can change this your choice
 global.sc = 'https://github.com/⏤͟͟͞͞★D༶E༶E༶P༶A༶K༶🤗ꗄ➺'
 global.myweb = 'https://www.facebook.com' // 👈 Enter your Social media link to follow now button
 global.packname = 'Gappu-Bot❤️'  // 👈 You Can change this your choice 
-global.author = 'Deepak😸❤️‍🔥' // 👈 You Can change this your choice 
+global.author = 'Devil's Dad👿😈' // 👈 You Can change this your choice 
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
