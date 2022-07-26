@@ -51,7 +51,7 @@ global.mess = {
     bot: 'This Feature Is Only For 😁 Bot', // 👈 You Can change this your choice
     wait: '```Please Wait...```', // 👈 You Can change this your choice
     error: 'Error! Maybe Api Key Is Expired🤔!', // 👈 You Can change this your choice
-    endLimit: 'Your Daily Limit Has Expired 👿😈, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 } // 👈 You Can change this your choice
 // Do Not Change 👇 
     global.limitawal = {
